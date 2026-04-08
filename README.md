@@ -1,19 +1,20 @@
 # 👋 Leandro Sun
 ## Legajo: 173.123-3
 
-<img src= "./Images/foto_perfil.jpeg" width ="300">
+<img src="./Images/foto_perfil.jpeg" width="200">
 
 ## 🧑‍💻 Sobre mi
 
-Hola! 👋
-Mi nombre es **Leandro Sun**, soy 🎓 Técnico Electrónico y estudiante de **Ingeniería en Sistemas de Información**.  
+Hola! Me llamo **Leandro Sun** 👋
+
+Soy 🎓 Técnico Electrónico y estudiante de **Ingeniería en Sistemas de Información**.  
 Me apasiona 💻 el desarrollo de software y el mundo IT.  
-Disfruto los desafíos 🚀 y trabajar en equipo 🤝.
+Me gustan los retos 🚀 y trabajar en equipo 🤝.
 
 ## 🎯 Extras
 
 * 🏐 Voley
-* 🎵 Musica
+* 🎵 Musica (De todo un poco)
 * 🍳 Cocina 
 
 
