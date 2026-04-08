@@ -1,7 +1,7 @@
 # 👋 Leandro Sun
 ## Legajo: 173.123-3
 
-<img src="./Images/foto_perfil.jpeg" width="200">
+<img src="./Images/foto_perfil.jpg" width="200">
 
 ## 🧑‍💻 Sobre mi
 
